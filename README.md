@@ -1,5 +1,7 @@
 # NewsWiz
 
+![NW logo (1)](https://github.com/ChinmayJoshi1412/NewsWiz/assets/80661549/d6ef969f-0157-4946-a0b2-ba9ce60b091f)
+
 About:
 A user-friendly news app to stay informed with the latest headlines across different categories
 
